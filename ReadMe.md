@@ -7,5 +7,6 @@ You do have to submit a gitHub link to your repo after you have worked the probl
 Make sure that the only files that are on your repo are:
 CourseClass.py
 CourseProgram.py
+.gitignore
 
 No other files should be in your repo.
